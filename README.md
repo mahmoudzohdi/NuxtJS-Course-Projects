@@ -1,6 +1,6 @@
 # Project 1 - Simple Blog
 
-This Project was explaioned in video number 14 and 15 in the [Nuxt.js Course](https://www.youtube.com/watch?v=zOCwbNtmAnY&list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL)
+This Project was explaioned in video number 14 and 15 in the [Nuxt.js Course](https://www.youtube.com/watch?v=lUj9-9g6Uho&list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL&index=14)
 
 ## Build Setup
 
